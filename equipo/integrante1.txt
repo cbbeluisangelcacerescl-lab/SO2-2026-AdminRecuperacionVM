@@ -1,0 +1,4 @@
+Nombre: ADAM FABRICIO 
+Apellido: SANCHEZ LOPEZ
+Grupo: AdminRecuperacionVM
+Rol o responsabilidad principal: Lider de Repositorio
