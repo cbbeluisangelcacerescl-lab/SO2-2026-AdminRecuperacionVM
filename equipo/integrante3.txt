@@ -1,4 +1,4 @@
 Nombre: Luis Angel
 Apellido: Caceres Claros
-Grupo: 
+Grupo: AdminRecuperacionVM
 Rol o responsabilidad principal: Integrante 3 - Líder de Integración IA y Auditoría
