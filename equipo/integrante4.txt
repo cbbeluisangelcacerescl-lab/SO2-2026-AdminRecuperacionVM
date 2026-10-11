@@ -1,1 +1,4 @@
-
+Nombre: Rudi 
+Apellido: Choque Bautista
+Grupo: AdminRecuperacionVM
+Rol o responsabilidad principal: Integrante 3 - Líder de Gestión de Tareas 
