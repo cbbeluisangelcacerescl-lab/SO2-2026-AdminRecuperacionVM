@@ -1,4 +1,4 @@
-nombe: brandon 
-apellido: gonzales salazar
-grupo: AdminRecuperacionVM
-rol en el grupo: lider de documentacion tecnica
+Nombre: Brandon 
+Apellido: Gonzales Salazar
+Grupo: AdminRecuperacionVM
+Rol en el grupo: Lider de documentacion tecnica
